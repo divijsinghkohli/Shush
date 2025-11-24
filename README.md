@@ -118,8 +118,9 @@ python3 -m venv venv
      venv\Scripts\activate
      ```
    - Other OS
-     Why lol??
-
+     '''bash
+     [Additional Documentation](https://learn.microsoft.com/en-us/linux/install)
+     ```
 3. Install the required packages:
 ```bash
 pip install -r requirements.txt
