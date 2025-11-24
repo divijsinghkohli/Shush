@@ -117,6 +117,8 @@ python3 -m venv venv
      ```bash
      venv\Scripts\activate
      ```
+   - Other OS
+     Why lol??
 
 3. Install the required packages:
 ```bash
